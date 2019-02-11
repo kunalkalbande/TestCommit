@@ -23,6 +23,7 @@ namespace sqlconnectionTest
             bool isupdate = false;
             try
             {
+
                 string instance = ",1433";
                 var nameinst = "sql2016,1433";
                 var inst = instance.Trim(',');
