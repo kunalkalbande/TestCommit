@@ -1,0 +1,6 @@
+E:\POC\sqlconnectionTest\sqlconnectionTest\bin\Debug\sqlconnectionTest.exe.config
+E:\POC\sqlconnectionTest\sqlconnectionTest\bin\Debug\sqlconnectionTest.exe
+E:\POC\sqlconnectionTest\sqlconnectionTest\bin\Debug\sqlconnectionTest.pdb
+E:\POC\sqlconnectionTest\sqlconnectionTest\obj\Debug\sqlconnectionTest.exe
+E:\POC\sqlconnectionTest\sqlconnectionTest\obj\Debug\sqlconnectionTest.pdb
+E:\POC\sqlconnectionTest\sqlconnectionTest\obj\Debug\sqlconnectionTest.csprojResolveAssemblyReference.cache
