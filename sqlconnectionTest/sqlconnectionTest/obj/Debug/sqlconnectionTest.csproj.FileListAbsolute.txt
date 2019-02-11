@@ -4,3 +4,16 @@ E:\POC\sqlconnectionTest\sqlconnectionTest\bin\Debug\sqlconnectionTest.pdb
 E:\POC\sqlconnectionTest\sqlconnectionTest\obj\Debug\sqlconnectionTest.exe
 E:\POC\sqlconnectionTest\sqlconnectionTest\obj\Debug\sqlconnectionTest.pdb
 E:\POC\sqlconnectionTest\sqlconnectionTest\obj\Debug\sqlconnectionTest.csprojResolveAssemblyReference.cache
+E:\TestCommit\TestCommit\sqlconnectionTest\sqlconnectionTest\bin\Debug\sqlconnectionTest.exe.config
+E:\TestCommit\TestCommit\sqlconnectionTest\sqlconnectionTest\bin\Debug\sqlconnectionTest.exe
+E:\TestCommit\TestCommit\sqlconnectionTest\sqlconnectionTest\bin\Debug\sqlconnectionTest.pdb
+E:\TestCommit\TestCommit\sqlconnectionTest\sqlconnectionTest\bin\Debug\AutoMapper.dll
+E:\TestCommit\TestCommit\sqlconnectionTest\sqlconnectionTest\bin\Debug\System.ValueTuple.dll
+E:\TestCommit\TestCommit\sqlconnectionTest\sqlconnectionTest\bin\Debug\AutoMapper.pdb
+E:\TestCommit\TestCommit\sqlconnectionTest\sqlconnectionTest\bin\Debug\AutoMapper.xml
+E:\TestCommit\TestCommit\sqlconnectionTest\sqlconnectionTest\bin\Debug\System.ValueTuple.xml
+E:\TestCommit\TestCommit\sqlconnectionTest\sqlconnectionTest\obj\Debug\sqlconnectionTest.csprojAssemblyReference.cache
+E:\TestCommit\TestCommit\sqlconnectionTest\sqlconnectionTest\obj\Debug\sqlconnectionTest.csproj.CoreCompileInputs.cache
+E:\TestCommit\TestCommit\sqlconnectionTest\sqlconnectionTest\obj\Debug\sqlconnectionTest.csproj.CopyComplete
+E:\TestCommit\TestCommit\sqlconnectionTest\sqlconnectionTest\obj\Debug\sqlconnectionTest.exe
+E:\TestCommit\TestCommit\sqlconnectionTest\sqlconnectionTest\obj\Debug\sqlconnectionTest.pdb

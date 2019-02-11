@@ -1,5 +1,5 @@
 ﻿################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ###############################################################################
-/sqlconnectionTest/.vs/sqlconnectionTest/DesignTimeBuild/.dtbcache
-/sqlconnectionTest/.vs/sqlconnectionTest
+
+/sqlconnectionTest/.vs/sqlconnectionTest/v15/Server/sqlite3
