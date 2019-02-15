@@ -13,7 +13,6 @@ namespace sqlconnectionTest
 {
     class Program
     {
-
         static string connstring = "Data Source=ultp_597;uid=synerzipune\\kunalk;pwd=Pulsar6419@;Integrated Security=SSPI;Initial Catalog=Prompt_NOCCCD;";
 
         static void Main(string[] args)
